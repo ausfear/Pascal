@@ -1,2 +1,2 @@
-# pascal
+# Pascal
 My Pascal Collections
